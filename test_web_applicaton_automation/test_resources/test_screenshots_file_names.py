@@ -1,0 +1,10 @@
+class screenshots_names(object):
+    title_assertion_failed = "title_assertion_fail"
+    url_assertion_failed = "Url_assertion_fail"
+    Page_Logo_assertion_fail = "Page_Logo_assertion_fail"
+    user_name_input_field_not_displayed = "user_name_input_field_not_displayed"
+    password_input_field_not_displayed = "password_input_field_not_displayed"
+    user_input_field_attribute_assertion_failed = " user_input_field_attribute_assertion_failed"
+    password_input_field_attribute_assertion_failed = "password_input_field_attribute_assertion_failed"
+    login_button_text_assertion_failed = "login_button_text_assertion_failed"
+    user_input_field_value_assertion_failed = "user_input_field_value_assertion_failed"

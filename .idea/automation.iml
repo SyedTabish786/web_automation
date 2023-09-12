@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/PySocks-1.7.1.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/_distutils_hack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/_pytest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/allure" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/allure_commons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/allure_pytest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/allure_pytest-2.13.2.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/allure_python_commons-2.13.2.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/attr" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/attrs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/attrs-23.1.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/certifi-2023.7.22.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/cffi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/cffi-1.15.1.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/colorama-0.4.6.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/enum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/enum34-1.1.10.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/exceptiongroup" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/exceptiongroup-1.1.2.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/h11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/h11-0.14.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/idna-3.4.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/iniconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/iniconfig-2.0.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/lxml" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/lxml-4.9.3.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/namedlist-1.8.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/outcome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/outcome-1.2.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/packaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/packaging-23.1.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pip-23.2.1.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pkg_resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pluggy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pluggy-1.2.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pycparser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pycparser-2.21.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pytest" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/pytest-7.4.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/selenium" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/selenium-4.11.2.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/setuptools" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/setuptools-65.5.1.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/six-1.16.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sniffio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sniffio-1.3.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sortedcontainers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/sortedcontainers-2.4.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/trio" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/trio-0.22.2.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/trio_websocket" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/trio_websocket-0.10.3.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/urllib3-2.0.4.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wheel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wheel-0.38.4.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wsproto" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Lib/site-packages/wsproto-1.2.0.dist-info" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/venv/Scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/data/attachments" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/data/test-cases" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/export" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/history" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/plugins/behaviors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/plugins/packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/plugins/screen-diff" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Reports/allure-report/widgets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Test_Utility" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Test_base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Test_base/chromedriver-win64" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Tests" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Tests/test_pageobjects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/Tests/test_pageobjects/test_pages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_Scripts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_Scripts1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_assertionactualdata" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_atributes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_attributes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_pages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_login_page_scripts" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/test_vcm_automaton/Venv" />
+      <excludeFolder url="file://$MODULE_DIR$/test_web_applicaton_automation/test_vcm_automaton/Venv" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.11 (web_automation)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
