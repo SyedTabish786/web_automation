@@ -68,9 +68,7 @@ class TestVWebPage(EnvironmentSetup):
                     screenshots_names.login_button_text_assertion_failed)
                 test_sellenium_assertions.assert_always_false(
                     failed_assertion_messages.login_button_text_assertion_failed)
-        except AssertionError as e:
-            print(f"AssertionError occurred: {e}")
-            raise e
+       
 
         except Exception as e:
             raise AssertionError(f"{e}")
